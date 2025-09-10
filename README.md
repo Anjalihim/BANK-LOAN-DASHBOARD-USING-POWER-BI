@@ -25,7 +25,7 @@ The dataset contains ~50 records with the following columns:
 ## 🌟 Features / Highlights
 - **KPI Cards** → Total Loans, Approved, Rejected, Default Rate  
 - **Pie Chart** → Loan distribution by type  
-- **CLUSTER COLUME Chart** → Loan amount by branch  
+- **Cluster colume Chart** → Loan amount by branch  
 - **Line Chart** → Loan approval trend over time  
 - **Credit Score Analysis** → Default vs credit score  
 
